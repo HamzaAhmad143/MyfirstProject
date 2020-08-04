@@ -19,9 +19,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Login Form </title>
+
+	<title> Login Form new develope </title>
+
 </head>
 <body>
+
+	<h1>GitHub Try</h1>
 	<form method="Post">
 <?php 
 	if(isset($_GET['error']))
